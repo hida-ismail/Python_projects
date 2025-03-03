@@ -1,0 +1,12 @@
+,CUSTOMER ID,NAME,DATE OF BIRTH,GENDER,PHONE NUMBER,ADDRESS,DATE OF REGISTERATION,DELIVERY,TIME TO BE DELIVERED,VENUE
+1,101,Yasa khan,19-03-1990,M,9837289021,"C-1/6, Pandara Park, New Delhi",25-02-2022,Y,3:00 PM,"-1/6, Pandara Park, New Delhi"
+2,102,Neha Singh,16-07-1993,F,8278921353,"Ferozeshah Road, New Delhi",25-02-2022,n,,NAN
+3,103,Himesh v,29-02-1988,M,8798721342,"28, Lodhi Estate, New Delhi",25-02-2022,n,,NAN
+4,104,Anuj Viraj,22-10-1993,M,8792167432,"AB-92, Shahjahan Road, New Delhi",25-02-2022,Y,12:00 PM,"09/01, Shah Road, Noida"
+5,105,Ali dev,09-11-1985,M,9898112376,"12, Safdarjung Lane, Delhi",25-02-2022,n,,NAN
+6,106,Ananya Yuvraj,25-08-1990,F,9811246745,"B-103, M.S. Flats, B.K.S. Marg, Delhi",25-02-2022,n,,NAN
+7,107,Ishani Shah,27-05-1996,F,988993212,"C-1/17, Pandara Park, west Delhi.",25-02-2022,Y,6:00 PM,"No. 10, Duplex Flat, west Delhi"
+8,108,Ranbir samar,07-04-1997,M,9998811789,"C-1/12, Lodhi Garden, New Delhi.",25-02-2022,y,7:00 PM,"C-1/12, Lodhi Garden, New Delhi"
+9,109,Zara Begum,14-09-1990,F,876789873,"5/4, Safdarjung Lane, Delhi.",25-02-2022,n,,NAN
+10,110,Disha Pandit,17-12-1992,F,9878245333,"AB-15, Mathura Road, East Delhi",25-02-2022,n,,NAN
+11,111,Kavya Jai,28-01-1987,F,9987223654,"43, Meena Bagh, New Delhi",25-02-2022,Y,12:00 PM,"61, South Avenue, New Delhi"
